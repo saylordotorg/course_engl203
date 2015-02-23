@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL203: Cultural and Literary Expression in the 18th and 19th Centuries"
+course_description: "A detailed survey of the English literature and culture of 18th and 19th centuries, focusing on the four major movements of the era: the the Enlightenment and Restoration literature, the rise of the Novel, Romanticism, and the Victorian period."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL203: Cultural and Literary Expression in the 18<sup>th</sup> and 19<sup>th</sup> Centuries"
 --------------------------------------------------------------------------------------------------------------------
 

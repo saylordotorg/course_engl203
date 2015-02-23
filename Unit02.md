@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL203: Cultural and Literary Expression in the 18th and 19th Centuries"
+course_description: "A detailed survey of the English literature and culture of 18th and 19th centuries, focusing on the four major movements of the era: the the Enlightenment and Restoration literature, the rise of the Novel, Romanticism, and the Victorian period."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Rise of the Modern Novel** <span id="2"></span> 
 *While clearly not a literary period, the rise of the novel, as we know
 it, took place over the course of the 18<sup>th </sup>century. Though

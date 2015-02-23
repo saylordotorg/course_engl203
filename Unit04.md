@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL203: Cultural and Literary Expression in the 18th and 19th Centuries"
+course_description: "A detailed survey of the English literature and culture of 18th and 19th centuries, focusing on the four major movements of the era: the the Enlightenment and Restoration literature, the rise of the Novel, Romanticism, and the Victorian period."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: The Victorian Period** <span id="4"></span> 
 *We will begin by tracing the chronological arc of the Victorian
 Period - from early socio-economic unrest to the height of the British

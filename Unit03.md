@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL203: Cultural and Literary Expression in the 18th and 19th Centuries"
+course_description: "A detailed survey of the English literature and culture of 18th and 19th centuries, focusing on the four major movements of the era: the the Enlightenment and Restoration literature, the rise of the Novel, Romanticism, and the Victorian period."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Romanticism** <span id="3"></span> 
 *Like authors of the sentimental novel, Romantic poets and authors built
 on and moved beyond the Enlightenment’s emphasis on rational inquiry and
