@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "ENGL203: Cultural and Literary Expression in the 18<sup>th</sup> and 19<sup>th</sup> Centuries"
 --------------------------------------------------------------------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_engl203) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 Scholars tend to label the period between the Renaissance and the modern
 era as the long 18<sup>th</sup> and 19<sup>th</sup> centuries, meaning
 that they span from around 1680 - 1830 and 1775 - 1910, respectively,
