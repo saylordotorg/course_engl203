@@ -474,7 +474,7 @@ Universe** <span id="1.2.3"></span> 
     Link: George Mason University: Professor Rose Cherubin’s [“The
     Scientific Revolution of the 17<sup>th</sup> Century and the
     Political Revolutions of the 18<sup>th</sup>
-    Century”](http://classweb.gmu.edu/rcherubi/ancient/srfr.htm)
+    Century”](https://mason.gmu.edu/~rcherubi/srfr.htm)
     (HTML)  
       
      Instructions: Read this article, which outlines the connection
@@ -486,8 +486,7 @@ Universe** <span id="1.2.3"></span> 
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution-NonCommercial-ShareAlike 3.0 Unported
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/). It is
-    attributed to Rose Cherubin, and the original version can be found
-    [here](http://classweb.gmu.edu/rcherubi/ancient/srfr.htm).
+    attributed to [Rose Cherubin](https://mason.gmu.edu/~rcherubi/).
 
 -   **Activity: The Saylor Foundation’s “Discussion Questions on the
     Enlightenment”**
