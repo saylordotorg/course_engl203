@@ -159,3 +159,4 @@ with your calendar and decide to complete Subunit 1.1.1 and Subunit
 - [Unit 2](https://legacy.saylor.org/engl203/Unit02/)
 - [Unit 3](https://legacy.saylor.org/engl203/Unit03/)
 - [Unit 4](https://legacy.saylor.org/engl203/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL203/ENGL203-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL203/ENGL203-FinalExam-Answers.html)
