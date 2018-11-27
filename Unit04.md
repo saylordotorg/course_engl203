@@ -98,7 +98,7 @@ Social Change** <span id="4.1.1"></span> 
 -   **Reading: The Victorian Web: George P. Landow’s “Victorian and
     Victorianism”**
     Link: The Victorian Web: George P. Landow’s [“Victorian and
-    Victorianism”](http://www.saylor.org/site/wp-content/uploads/2011/02/Victorianweb-Victorian-and-Victorianism.pdf) (PDF)  
+    Victorianism”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Victorianweb-Victorian-and-Victorianism.pdf) (PDF)  
       
      Instructions: Read this article for an introduction to some of the
     features of the culture of Victorian society.  
@@ -199,7 +199,7 @@ id="4.1.2"></span> 
     Sourcebook*: Rudyard Kipling’s “The White Man’s Burden”**
     Link: Fordham University’s *Internet Modern History Sourcebook*:
     Rudyard Kipling’s [“The White Man’s
-    Burden”](http://www.saylor.org/site/wp-content/uploads/2011/02/The-White-mans-burden.pdf) (PDF)  
+    Burden”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-White-mans-burden.pdf) (PDF)  
       
      Instructions: Read Kipling’s famous poem, which articulates the
     imperial project in terms of the white man’s burden.  
@@ -258,7 +258,7 @@ id="4.1.4"></span> 
     Constitutionally Considered”**
     Link: Helen Taylor’s [“The Claim of Englishwomen to the Suffrage
     Constitutionally
-    Considered”](http://www.saylor.org/site/wp-content/uploads/2011/02/The-Claim-of-Englishwomen-to-the-Suffrage-Constitutionally-Considered.pdf) (PDF)  
+    Considered”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Claim-of-Englishwomen-to-the-Suffrage-Constitutionally-Considered.pdf) (PDF)  
       
      Instructions: Read Helen Taylor’s “The Claim of Englishwomen to the
     Suffrage Constitutionally Considered” for an example of contemporary
@@ -288,7 +288,7 @@ id="4.1.4"></span> 
 -   **Reading: Eliza Lynn Linton’s Excerpt from *The Girl of the
     Period***
     Link: Eliza Lynn Linton’s [Excerpt from *The Girl of the
-    Period*](http://www.saylor.org/site/wp-content/uploads/2011/02/The-New-Woman.pdf) (PDF)  
+    Period*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-New-Woman.pdf) (PDF)  
       
      Also available in:  
      [Google
@@ -305,7 +305,7 @@ id="4.1.4"></span> 
 -   **Reading: The Saylor Foundation’s “The Woman Question in Victorian
     England”**
     Link: The Saylor Foundation’s [“The Woman Question in Victorian
-    England”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-4.1.4-The-Woman-Question-in-Victorian-England-FINAL1.pdf) (PDF)  
+    England”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-4.1.4-The-Woman-Question-in-Victorian-England-FINAL1.pdf) (PDF)  
       
      Instructions: Read this essay for an overview of debates about and
     developments in ideas about women during the Victorian period as a
@@ -344,7 +344,7 @@ Contexts** <span id="4.2.1"></span> 
     *Great Expectations*”**
     Link: The Victorian Web: Philip V. Allingham’s [“Why Read the
     Serialized Versions of Victorian
-    Novels?”](http://www.saylor.org/site/wp-content/uploads/2011/02/Victorianweb-Why-Read-the-Serial-Versions-of-Victorian-Novels.pdf) (PDF),
+    Novels?”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Victorianweb-Why-Read-the-Serial-Versions-of-Victorian-Novels.pdf) (PDF),
     [“Introduction to Charles Dickens’s *Great
     Expectations*”](http://www.victorianweb.org/authors/dickens/ge/pva10.html) (HTML),
     [“The Genres of Charles Dickens’s *Great Expectations -* Positioning
@@ -440,7 +440,7 @@ Material Conditions** <span id="4.2.2"></span> 
     Society: Class Stratification and Material Conditions”**
     Link: The Saylor Foundation’s [“Depictions of Victorian Society:
     Class Stratification and Material
-    Conditions”](http://www.saylor.org/site/wp-content/uploads/2011/05/ENGL203-4.2.2-Victorian-Society.pdf)
+    Conditions”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ENGL203-4.2.2-Victorian-Society.pdf)
     (PDF)  
       
      Instructions: Complete the discussion questions relating to this
@@ -449,7 +449,7 @@ Material Conditions** <span id="4.2.2"></span> 
     respond to at least one or two other students’ posts. After you
     answer the discussion questions, or if you need guidance while
     answering the questions, check The Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
       
      Completing this activity should take approximately 30 minutes.
@@ -476,7 +476,7 @@ Tennyson** <span id="4.3.1"></span> 
     Tennyson***
     Link: Arthur Henry Hallum’s [Excerpt from *On Some of the
     Characteristics of Modern Poetry, and on the Lyrical Poems of Alfred
-    Tennyson*](http://www.saylor.org/site/wp-content/uploads/2011/02/Characteristics-of-Modern-Poetry.pdf) (PDF)  
+    Tennyson*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Characteristics-of-Modern-Poetry.pdf) (PDF)  
       
      Instructions: Read this excerpt from Arthur Henry Hallum’s 1831
     review of Tennyson’s poetry, focusing on the connections between
@@ -491,12 +491,12 @@ Tennyson** <span id="4.3.1"></span> 
     “Break, Break, Break,” “Maud,” and “The Charge of the Light
     Brigade”**
     Link: Tennyson’s [Excerpt from *In Memoriam:
-    A.H.H.*](http://www.saylor.org/site/wp-content/uploads/2011/02/In-Memoriam-AAH.pdf) (PDF), [“Ulysses”](http://www.saylor.org/site/wp-content/uploads/2011/02/Ulysses.pdf) (PDF),
+    A.H.H.*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/In-Memoriam-AAH.pdf) (PDF), [“Ulysses”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Ulysses.pdf) (PDF),
     [“Break, Break,
-    Break”](http://www.saylor.org/site/wp-content/uploads/2011/02/Break-Break-Break.pdf) (PDF),
-    [“Maud”](http://www.saylor.org/site/wp-content/uploads/2011/02/Maud.pdf) (PDF),
+    Break”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Break-Break-Break.pdf) (PDF),
+    [“Maud”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Maud.pdf) (PDF),
     and [“The Charge of the Light
-    Brigade”](http://www.saylor.org/site/wp-content/uploads/2011/02/The-Charge-of-the-Light-Brigade.pdf) (PDF)  
+    Brigade”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Charge-of-the-Light-Brigade.pdf) (PDF)  
       
      Also available in:  
      [Google
@@ -793,9 +793,9 @@ Gerard Manley Hopkins** <span id="4.3.4"></span> 
 -   **Reading: Gerard Manley Hopkins’s “The Windhover” and “Spring and
     Fall”**
     Link: Gerard Manley Hopkins’s [“The
-    Windhover”](http://www.saylor.org/site/wp-content/uploads/2011/02/The-Windhover.pdf) (PDF)
+    Windhover”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Windhover.pdf) (PDF)
     and [“Spring and
-    Fall”](http://www.saylor.org/site/wp-content/uploads/2011/02/Spring-and-Fall.pdf) (PDF)  
+    Fall”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Spring-and-Fall.pdf) (PDF)  
       
      Instructions: Read Hopkins’s poems, “The Windhover” and “Spring and
     Fall.”  
@@ -817,7 +817,7 @@ Gerard Manley Hopkins** <span id="4.3.4"></span> 
     Fall’”](http://www.victorianweb.org/authors/hopkins/block.html) (HTML),
     George P. Landow’s [“Gerard Manley Hopkins and the Difficulty of
     Victorian
-    Poetry”](http://www.saylor.org/site/wp-content/uploads/2011/01/VictorianWeb-Gerard-Manley-Hopkins.pdf) (PDF)
+    Poetry”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/VictorianWeb-Gerard-Manley-Hopkins.pdf) (PDF)
     and Laurann de Verteuil’s [“Reviving God: A Study of Matthew Arnold
     and Gerard Manley
     Hopkins”](http://www.victorianweb.org/authors/arnold/deverteuil.html) (HTML)  
