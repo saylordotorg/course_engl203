@@ -74,7 +74,7 @@ id="2.1"></span> 
 the Novel** <span id="2.1.1"></span> 
 -   **Reading: CUNY-Brooklyn: Dr. Lilia Melani’s “The Novel”**
     Link: CUNY-Brooklyn: Dr. Lilia Melani’s [“The
-    Novel”](http://www.saylor.org/site/wp-content/uploads/2011/01/The-Novel.pdf) (PDF)  
+    Novel”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-Novel.pdf) (PDF)  
         
      Instructions: Read Dr. Melani’s article, “The Novel,” which speaks
     about the development of the modern novel out of the earlier
@@ -92,7 +92,7 @@ the Novel** <span id="2.1.1"></span> 
 
 -   **Reading: The Saylor Foundation’s “The Emergence of the Novel”**
     Link: The Saylor Foundation’s [“The Emergence of the
-    Novel”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-2.1.1-The-Emergence-of-the-Novel-FINAL1.pdf)
+    Novel”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-2.1.1-The-Emergence-of-the-Novel-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this essay for a more in-depth discussion of the
@@ -129,7 +129,7 @@ id="2.1.2"></span> 
 
 -   **Reading: Aphra Behn’s *Oroonoko***
     Link: Aphra Behn’s
-    [*Oroonoko *](http://www.saylor.org/site/wp-content/uploads/2011/02/Oroonoko.pdf)(PDF)  
+    [*Oroonoko *](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Oroonoko.pdf)(PDF)  
       
      Also available in:  
      [Google
@@ -149,7 +149,7 @@ id="2.1.2"></span> 
     English Novel”**
     Link: The Saylor Foundation’s [“Aphra Behn’s *Oroonoko* and the
     English
-    Novel”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-2.1.2-Aphra-Behns-Oroonoko-and-the-English-Novel-FINAL1.pdf)
+    Novel”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-2.1.2-Aphra-Behns-Oroonoko-and-the-English-Novel-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read “Aphra Behn's *Oroonoko* and the English Novel”
@@ -209,7 +209,7 @@ id="2.1.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Short Essay on *Robinson
     Crusoe* and *Oroonoko*”**
     Link: The Saylor Foundation’s [“Short Essay on *Robinson Crusoe* and
-    *Oroonoko*”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-2.1.3-Short-Essay-on-Robinson-Crusoe-and-Oroonoko-FINAL1.pdf)
+    *Oroonoko*”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-2.1.3-Short-Essay-on-Robinson-Crusoe-and-Oroonoko-FINAL1.pdf)
     (PDF)  
         
      Instructions: Complete this assessment in which you will write a
@@ -218,7 +218,7 @@ id="2.1.2"></span> 
     novel. After you complete your short essay, or if you need guidance
     while answering the questions, check The Saylor Foundation’s [“Guide
     to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
         
      Tips and Suggestions: If you have an ePortfolio account, then it
@@ -277,7 +277,7 @@ id="2.2.1"></span> 
     Philosophy: Sympathy and the Moral Theory that Overthrew Kings”**
     Link: The Victorian Web: George P. Landow’s [“Emotionalist Moral
     Philosophy: Sympathy and the Moral Theory that Overthrew
-    Kings”](http://www.saylor.org/site/wp-content/uploads/2011/02/VictoriaWeb-Emotionalist-Moral-Philosophy.pdf) (PDF)  
+    Kings”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/VictoriaWeb-Emotionalist-Moral-Philosophy.pdf) (PDF)  
       
      Instructions: Read George P. Landow’s discussion of the philosophy
     of sympathy and sensibility during this era.  
@@ -321,7 +321,7 @@ id="2.2.1"></span> 
     Reputation of *Clarissa*”**
     Link: CUNY-Brooklyn: Dr. Lilia Melani’s [“Samuel Richardson;
     Reputation
-    of *Clarissa*”](http://www.saylor.org/site/wp-content/uploads/2011/01/Samuel-Richardson.pdf) (PDF)  
+    of *Clarissa*”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Samuel-Richardson.pdf) (PDF)  
       
      Instructions: Read Dr. Melani’s article, which provides commentary
     on Richardson and his most famous novel, the voluminous Clarissa.  
@@ -356,7 +356,7 @@ id="2.2.1"></span> 
     Richardson’s Pamela”**
     Link: The Saylor Foundation’s [“Elements of Sentimentality in
     Richardson’s
-    Pamela”](http://www.saylor.org/site/wp-content/uploads/2011/05/ENGL203-2.3.3-Sentimentality.pdf)
+    Pamela”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ENGL203-2.3.3-Sentimentality.pdf)
     (PDF)  
       
      Instructions: Complete the discussion questions relating to this
@@ -365,7 +365,7 @@ id="2.2.1"></span> 
     respond to at least one or two other students’ posts. After you
     answer the discussion questions, or if you need guidance while
     answering the questions, check The Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
       
      Completing this activity should take approximately 30 minutes.
@@ -377,7 +377,7 @@ id="2.3.1"></span> 
     Genre, Trope, and Form”**
     Link: The Saylor Foundation’s [“What Is the Gothic? Issues of Genre,
     Trope, and
-    Form”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-2.3.1-What-Is-Gothic-FINAL1.pdf)
+    Form”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-2.3.1-What-Is-Gothic-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this essay for an overview of the Gothic.  
@@ -387,7 +387,7 @@ id="2.3.1"></span> 
 **2.3.2 Antiquarianism and the Gothic Novel** <span id="2.3.2"></span> 
 -   **Reading: Horace Walpole’s *Castle of Otranto***
     Link: Horace Walpole’s [*Castle of
-    Otranto*](http://www.saylor.org/site/wp-content/uploads/2011/02/THE-CASTLE-OF-OTRANTO.pdf) (PDF)  
+    Otranto*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/THE-CASTLE-OF-OTRANTO.pdf) (PDF)  
       
      Instructions: Read Walpole’s *Castle of Otranto*, which is
     considered the first of the Gothic novels. Its antiquarianism and
@@ -417,7 +417,7 @@ id="2.3.3"></span> 
     Objects of Terror”**
     Link: Anna Aikin and John Aikin’s [“On Pleasure Derived from Objects
     of
-    Terror”](http://www.saylor.org/site/wp-content/uploads/2011/02/On-the-Pleasure-Derived-from-Objects-of-Terror.pdf) (PDF)  
+    Terror”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/On-the-Pleasure-Derived-from-Objects-of-Terror.pdf) (PDF)  
       
      Instructions: Read this essay for an 18<sup>th</sup>-century
     opinion of why Gothic literature appealed to readers.  
@@ -430,7 +430,7 @@ id="2.3.3"></span> 
     of Our Ideas of the Sublime and Beautiful***
     Link: Edmund Burke’s [*A Philosophical Enquiry into the Origin of
     Our Ideas of the Sublime and
-    Beautiful*](http://www.saylor.org/site/wp-content/uploads/2011/01/Edmund-Burke.pdf) (PDF)  
+    Beautiful*](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Edmund-Burke.pdf) (PDF)  
       
      Instructions: Read this excerpt from Edmund Burke’s famous
     description of the *sublime*, an experience that combines the
@@ -444,7 +444,7 @@ id="2.3.3"></span> 
     Terror and Burke on the Sublime”**
     Link: The Saylor Foundation’s [“Theorizing Terror: The Aikins on
     Terror and Burke on the
-    Sublime”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-2.3.3-Aikin-Burke-FINAL1.pdf)
+    Sublime”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-2.3.3-Aikin-Burke-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this essay for a brief overview of terror and
@@ -456,7 +456,7 @@ id="2.3.3"></span> 
 **2.3.4 The Female Gothic: Ann Radcliffe** <span id="2.3.4"></span> 
 -   **Reading: Ann Radcliffe’s Excerpt from *The Mysteries of Udolpho***
     Link: Ann Radcliffe’s [Excerpt from *The Mysteries of
-    Udolpho*](http://www.saylor.org/site/wp-content/uploads/2011/02/The-Mysteries-of-Udolpho.pdf) (PDF)  
+    Udolpho*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Mysteries-of-Udolpho.pdf) (PDF)  
       
      Also available in:  
      [Google
@@ -480,9 +480,9 @@ id="2.3.3"></span> 
 -   **Reading: CUNY-Brooklyn: Dr. Lilia Melani’s “The Gothic Experience”
     and “Ann Radcliffe”**
     Link: CUNY-Brooklyn: Dr. Lilia Melani’s [“The Gothic
-    Experience”](http://www.saylor.org/site/wp-content/uploads/2011/01/Gothic-Experience.pdf) (PDF)
+    Experience”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Gothic-Experience.pdf) (PDF)
     and [“Ann
-    Radcliffe”](http://www.saylor.org/site/wp-content/uploads/2011/01/ENGL403Radcliffe.pdf) (PDF)  
+    Radcliffe”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/ENGL403Radcliffe.pdf) (PDF)  
       
      Instructions: Read Dr. Lilia Melani’s brief articles, “The Gothic
     Experience” and “Ann Radcliffe” for context on the author and her
@@ -523,7 +523,7 @@ id="2.3.3"></span> 
     Sentimental and the Gothic”**
     Link: The Saylor Foundation’s [“Short Answer Quiz on the Sentimental
     and the
-    Gothic”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Unit-2-Short-Answer-Quiz-on-the-Sentimental-and-Gothic-FINAL1.pdf)
+    Gothic”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Unit-2-Short-Answer-Quiz-on-the-Sentimental-and-Gothic-FINAL1.pdf)
     (PDF)  
         
      Instructions: Complete this assessment in which you will respond to
@@ -532,7 +532,7 @@ id="2.3.3"></span> 
     sentences. After you complete this assessment, or if you need
     guidance while answering the questions, check The Saylor
     Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
         
      Tips and Suggestions: If you have an ePortfolio account, then it

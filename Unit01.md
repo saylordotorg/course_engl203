@@ -85,7 +85,7 @@ Parliamentary Democracy** <span id="1.1.1"></span> 
 -   **Reading: The Saylor Foundation’s: “The Restoration and the
     Eighteenth Century”**
     Link: The Saylor Foundation’s: [“The Restoration and the Eighteenth
-    Century”](http://www.saylor.org/site/wp-content/uploads/2013/10/ENGL203-OC-1.1.1-Restoration18thcintro.pdf) (PDF)  
+    Century”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/ENGL203-OC-1.1.1-Restoration18thcintro.pdf) (PDF)  
       
      Instructions: Read this text as a short introduction to the
     Restoration literary period.  
@@ -217,7 +217,7 @@ id="1.1.2"></span> 
     ‘Mac Flecknoe’ and ‘Alexander’s Feast’”**
     Link: The Saylor Foundation’s [“Close Readings of John Dryden’s ‘Mac
     Flecknoe’ and ‘Alexander’s
-    Feast’”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-1.1.2-Close-Readings-of-Dryden-FINAL1.pdf)
+    Feast’”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-1.1.2-Close-Readings-of-Dryden-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this essay, which contains explications of “Mac
@@ -230,7 +230,7 @@ id="1.1.2"></span> 
 **1.1.3 Comedies of Manners** <span id="1.1.3"></span> 
 -   **Reading: William Congreve’s *The Way of the World***
     Link: William Congreve’s *[The Way of the
-    World](http://www.saylor.org/site/wp-content/uploads/2011/02/The-Way-of-the-World.pdf)* (PDF)  
+    World](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Way-of-the-World.pdf)* (PDF)  
       
      *A*lso available in:  
      [Google
@@ -272,7 +272,7 @@ id="1.1.2"></span> 
     the World* and Restoration Drama”**
     Link: The Saylor Foundation’s [“William Congreve’s *The Way of the
     World* and Restoration
-    Drama”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-1.1.3-The-Way-of-the-World-and-Restoration-Drama-FINAL1.pdf)
+    Drama”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-1.1.3-The-Way-of-the-World-and-Restoration-Drama-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this essay for further discussion of Congreve’s
@@ -282,7 +282,7 @@ id="1.1.2"></span> 
 
 -   **Activity: The Saylor Foundation’s “Comedies of Manners”**
     Link: The Saylor Foundation’s [“Comedies of
-    Manners”](http://www.saylor.org/site/wp-content/uploads/2011/05/ENGL203-1.4.4-Comedies-Manners.pdf)
+    Manners”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ENGL203-1.4.4-Comedies-Manners.pdf)
     (PDF)  
       
      Instructions: Complete the discussion questions relating to this
@@ -291,7 +291,7 @@ id="1.1.2"></span> 
     respond to one or two other students’ posts. After you answer the
     discussion questions, or if you need guidance while answering the
     questions, check The Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
       
      Completing this activity should take approximately 30 minutes. 
@@ -320,7 +320,7 @@ id="1.1.2"></span> 
     Sourcebook*: Immanuel Kant’s “What Is Enlightenment?”**
     Link: Fordham University’s *Internet Modern History Sourcebook*:
     Immanuel Kant’s [“What Is
-    Enlightenment?”](http://www.saylor.org/site/wp-content/uploads/2011/02/What-is-Enlightenment.pdf)
+    Enlightenment?”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/What-is-Enlightenment.pdf)
     (PDF)  
       
      Instructions: Read Kant’s “What Is Enlightenment?” This piece comes
@@ -357,7 +357,7 @@ id="1.1.2"></span> 
     Link: Fordham University’s *Internet Modern History Sourcebook***:**
     Marie Jean Antoine Nicolas Caritat, Marquis de Condorcet’s [*The
     Future Progress of the Human
-    Mind*](http://www.saylor.org/site/wp-content/uploads/2011/02/Future-progress-of-the-human-mind.pdf) (PDF)  
+    Mind*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Future-progress-of-the-human-mind.pdf) (PDF)  
       
      Instructions: Read these excerpts from Condorcet’s *The Future
     Progress of the Human Mind*. This piece comes from the end of the
@@ -458,7 +458,7 @@ Universe** <span id="1.2.3"></span> 
     Scientific Method”**
     Link: The Saylor Foundation’s [“Philosophy of Science and the
     Scientific
-    Method”](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST201-8.2.1-Philosophy_of_Science-FINAL1.pdf)
+    Method”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST201-8.2.1-Philosophy_of_Science-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this essay for an overview of the development of
@@ -491,7 +491,7 @@ Universe** <span id="1.2.3"></span> 
 -   **Activity: The Saylor Foundation’s “Discussion Questions on the
     Enlightenment”**
     Link: The Saylor Foundation’s [“Discussion Questions on the
-    Enlightenment”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-1.2.3-Discussion-Questions-on-the-Enlightenment-FINAL.pdf)
+    Enlightenment”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-1.2.3-Discussion-Questions-on-the-Enlightenment-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete the discussion questions relating to the
@@ -500,7 +500,7 @@ Universe** <span id="1.2.3"></span> 
     respond to other students’ posts. After you answer the discussion
     questions, or if you need guidance while answering the questions,
     check The Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
         
      Completing this activity should take approximately 30 minutes.
@@ -525,7 +525,7 @@ Public Sphere** <span id="1.3"></span> 
 **1.3.1 Coffee House Culture and *Spectator*** <span id="1.3.1"></span> 
 -   **Reading: Excerpt from *Spectator*, Volume 1 (1711)**
     Link: Excerpt from [*Spectator*, Volume 1
-    (1711)](http://www.saylor.org/site/wp-content/uploads/2011/02/SPECTATOR.pdf) (PDF)  
+    (1711)](https://resources.saylor.org/archived/wp-content/uploads/2011/02/SPECTATOR.pdf) (PDF)  
       
      Also available in:  
      [Google
@@ -557,7 +557,7 @@ Public Sphere** <span id="1.3"></span> 
     Sourcebook*: “The First English Coffee Houses”**
     Link: Fordham University’s *Internet Modern History
     Sourcebook: *[“The First English
-    Coffee-Houses”](http://www.saylor.org/site/wp-content/uploads/2011/02/First-english-coffee-houses.pdf)
+    Coffee-Houses”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/First-english-coffee-houses.pdf)
     (PDF)  
       
      Instructions: Read the selection on coffee-house culture and the
@@ -705,7 +705,7 @@ Enlightenment** <span id="1.3.2"></span> 
     Enlightenment Applications”**
     Link: The Saylor Foundation’s [“Satire: Horation Roots and
     Enlightenment
-    Applications”](http://www.saylor.org/site/wp-content/uploads/2011/05/ENGL-1.4.2-Horation-Roots.pdf)
+    Applications”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ENGL-1.4.2-Horation-Roots.pdf)
     (PDF)  
       
      Instructions: Complete the discussion questions relating to this
@@ -714,7 +714,7 @@ Enlightenment** <span id="1.3.2"></span> 
     respond to at least one or two other students’ posts. After you
     answer the discussion questions, or if you need guidance while
     answering the questions, check The Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
       
      Completing this activity should take approximately 30 minutes.
@@ -741,7 +741,7 @@ id="1.3.3"></span> 
 
 -   **Reading: Jonathan Swift’s “A Modest Proposal”**
     Link: Jonathan Swift’s [“A Modest
-    Proposal”](http://www.saylor.org/site/wp-content/uploads/2011/02/A-MODEST-PROPOSAL.pdf) (PDF)   
+    Proposal”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/A-MODEST-PROPOSAL.pdf) (PDF)   
       
      Also available in:  
      [Google
@@ -857,7 +857,7 @@ id="1.3.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Short Essay on
     Eighteenth-Century Literature”**
     Link: The Saylor Foundation’s [“Short Essay on Eighteenth-Century
-    Literature”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Unit-1-Short-Essay-on-18th-Century-Literature-FINAL1.pdf)
+    Literature”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Unit-1-Short-Essay-on-18th-Century-Literature-FINAL1.pdf)
     (PDF)  
       
      Instructions: Complete this assessment in which you will write a
@@ -865,7 +865,7 @@ id="1.3.4"></span> 
     the offered prompts. After you complete your short essay, or if you
     need guidance while answering the questions, check The Saylor
     Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/ENGL203-Guide-to-Responding-to-Assessments.pdf)
     (PDF).  
         
      Tips and Suggestions: If you have an ePortfolio account, then it

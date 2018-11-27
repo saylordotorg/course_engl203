@@ -115,7 +115,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Washington State University: Paul Brians’s
     “Romanticism”**
     Link: Washington State University: Paul
-    Brians’s [“Romanticism”](http://www.saylor.org/site/wp-content/uploads/2011/04/Romanticism.pdf) (PDF)  
+    Brians’s [“Romanticism”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Romanticism.pdf) (PDF)  
       
      Instructions: Read Brians’s article for an introduction to
     Romanticism.  
@@ -146,7 +146,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: CUNY-Brooklyn: Dr. Lilia Melani’s “Introduction to
     Romanticism”**
     Link: CUNY-Brooklyn: Dr. Lilia Melani’s [“Introduction to
-    Romanticism”](http://www.saylor.org/site/wp-content/uploads/2011/01/Intro-to-Romanticism.pdf) (PDF)  
+    Romanticism”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Intro-to-Romanticism.pdf) (PDF)  
         
      Instructions: Read Dr. Melani’s article for an introduction to
     Romanticism.  
@@ -163,7 +163,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Activity: The Saylor Foundation’s “Defining Romanticism, Part 1”**
     Link: The Saylor Foundation’s [“Defining Romanticism, Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-3.1.1-Guide-to-Responding-to-Defining-Romanticism-Part-1-FINAL1.pdf)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-3.1.1-Guide-to-Responding-to-Defining-Romanticism-Part-1-FINAL1.pdf)
     (PDF)  
         
      Instructions: In two paragraphs of approximately five to six
@@ -177,7 +177,7 @@ Upon successful completion of this unit, you will be able to:
      Once you have completed your working definition, or if you need
     assistance, check The Saylor Foundation’s [“Guide to Responding to
     Defining Romanticism, Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-3.1.1-Guide-to-Responding-to-Defining-Romanticism-Part-1-FINAL1.pdf)  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-3.1.1-Guide-to-Responding-to-Defining-Romanticism-Part-1-FINAL1.pdf)  
         
      Completing this activity should take approximately 30 minutes.
 
@@ -248,7 +248,7 @@ id="3.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “British Reactions to the French
     Revolution”**
     Link: The Saylor Foundation’s [“British Reactions to the French
-    Revolution”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-3.1.2-French-Revolution-FINAL1.pdf)
+    Revolution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-3.1.2-French-Revolution-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this essay for a brief overview of British
@@ -287,7 +287,7 @@ id="3.1.2"></span> 
     the Romantic Spirit”**
     Link: The Saylor Foundation’s [“The Industrial Revolution and the
     Romantic
-    Spirit”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-3.1.3-Industrial-Revolution-and-the-Romantic-Spirit-FINAL1.pdf) (PDF)  
+    Spirit”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-3.1.3-Industrial-Revolution-and-the-Romantic-Spirit-FINAL1.pdf) (PDF)  
       
      Instructions: Read this essay for an overview of Romanticism as a
     reaction to the Industrial Revolution. *Romanticism* is often seen
@@ -392,9 +392,9 @@ id="3.2.1"></span> 
 -   **Reading: William Wordsworth’s “Observations Prefixed to *Lyrical
     Ballads*” and *Lyrical Ballads***
     Link: William Wordsworth’s [“Observations Prefixed to *Lyrical
-    Ballads*”](http://www.saylor.org/site/wp-content/uploads/2011/02/Preface-to-lyrical-ballads.pdf) (PDF)
+    Ballads*”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Preface-to-lyrical-ballads.pdf) (PDF)
     and *[Lyrical
-    Ballads](http://www.saylor.org/site/wp-content/uploads/2011/02/Lyrical-Ballads-with-a-few-other-poems.pdf) *(PDF)  
+    Ballads](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Lyrical-Ballads-with-a-few-other-poems.pdf) *(PDF)  
       
      Instructions: Read the preface, titled “Observations Prefixed to
     *Lyrical Ballads*.” Then, read the following poems from *Lyrical
@@ -440,7 +440,7 @@ id="3.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Samuel Taylor Coleridge (1772 -
     1834)”**
     Link: The Saylor Foundation’s [“Samuel Taylor Coleridge (1772 -
-    1834)”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Samuel-Taylor-Coleridge-Saylor.pdf) (PDF)  
+    1834)”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Samuel-Taylor-Coleridge-Saylor.pdf) (PDF)  
       
      Instructions: Read this essay for a brief biography on Coleridge.  
       
@@ -449,7 +449,7 @@ id="3.2.2"></span> 
 -   **Reading: Samuel Taylor Coleridge’s Excerpts from *Biographia
     Literaria***
     Link: Samuel Taylor Coleridge’s [Excerpts from *Biographia
-    Literaria*](http://www.saylor.org/site/wp-content/uploads/2011/02/Biographia-Litararia-Coleridge.pdf)
+    Literaria*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Biographia-Litararia-Coleridge.pdf)
     (PDF)  
       
      Instructions: Read this excerpt from Coleridge’s famous account of
@@ -514,7 +514,7 @@ id="3.2.2"></span> 
 Poetry”** <span id="3.2.3"></span> 
 -   **Reading: The Saylor Foundation’s “Percy Bysshe Shelley”**
     Link: The Saylor Foundation’s [“Percy Bysshe
-    Shelley”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Percy-Bysshe-Shelley-Saylor.pdf) (PDF)  
+    Shelley”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Percy-Bysshe-Shelley-Saylor.pdf) (PDF)  
       
      Instructions: Read this essay to learn about Percy Bysshe Shelley’s
     life and works. One of the most famous of the second generation of
@@ -671,7 +671,7 @@ Poetry”** <span id="3.2.3"></span> 
 
 -   **Reading: William Wordsworth’s Excerpts from *The Prelude***
     Link: William Wordsworth’s [Excerpts from *The
-    Prelude*](http://www.saylor.org/site/wp-content/uploads/2011/02/The-Prelude.pdf)
+    Prelude*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Prelude.pdf)
     (PDF)  
       
      Also available in:  
@@ -708,7 +708,7 @@ Poetry”** <span id="3.2.3"></span> 
     Abbey’](http://www.victorianweb.org/previctorian/ww/tintern.html)[”](http://www.victorianweb.org/previctorian/ww/tintern.html)
     (HTML); William Wordsworth’s [“Lines Composed a Few Miles above
     Tintern Abbey, On Revisiting the Banks of the Wye during a
-    Tour”](http://www.saylor.org/site/wp-content/uploads/2011/02/Tintern-Abbey-Wordsworth.pdf) (PDF)  
+    Tour”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Tintern-Abbey-Wordsworth.pdf) (PDF)  
         
      Instructions: Please look over Professor Everett’s reading
     questions on “Tintern Abbey,” before reading Wordsworth’s poem
@@ -724,9 +724,9 @@ Poetry”** <span id="3.2.3"></span> 
 -   **Reading: Samuel Taylor Coleridge’s “Frost at Midnight” and
     “Dejection”**
     Link: Samuel Taylor Coleridge’s [“Frost at
-    Midnight”](http://www.saylor.org/site/wp-content/uploads/2011/02/Frost-at-Midnight.pdf) (PDF)
+    Midnight”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Frost-at-Midnight.pdf) (PDF)
     and
-    [“Dejection”](http://www.saylor.org/site/wp-content/uploads/2011/02/Dejection.pdf) (PDF)  
+    [“Dejection”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Dejection.pdf) (PDF)  
       
      Instructions: Read Coleridge’s poems, “Frost at Midnight” and
     “Dejection.” When reading these poems, refer back to the discussion
@@ -743,7 +743,7 @@ Poetry”** <span id="3.2.3"></span> 
     ‘Ode to a
     Nightingale’](http://www.victorianweb.org/previctorian/keats/nightingale.html)[”](http://www.victorianweb.org/previctorian/keats/nightingale.html)
     (HTML); John Keats’s [“Ode to a
-    Nightingale”](http://www.saylor.org/site/wp-content/uploads/2011/02/Ode-to-a-Nightingale.pdf) (PDF)  
+    Nightingale”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Ode-to-a-Nightingale.pdf) (PDF)  
       
      Instructions: Please read through Professor Everett’s introduction
     and reading questions for Keats’s poem before then reading Keats’
@@ -758,7 +758,7 @@ Poetry”** <span id="3.2.3"></span> 
 
 -   **Reading: The Saylor Foundation’s “Romanticism and Nature”**
     Link: The Saylor Foundation’s [“Romanticism and
-    Nature”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Subunit-3.3.1-Romanticism-and-Nature-FINAL1.pdf)
+    Nature”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Subunit-3.3.1-Romanticism-and-Nature-FINAL1.pdf)
     (PDF)  
       
      Instructions: Read this brief essay for a summary on the topic of
@@ -851,7 +851,7 @@ id="3.3.3"></span> 
 -   **Reading: The Saylor Foundation’s “Lord Byron, George Gordon
     (1788 - 1823)”**
     Link: The Saylor Foundation’s [“Lord Byron, George Gordon (1788 -
-    1823)”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Saylor.pdf) (PDF)  
+    1823)”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Saylor.pdf) (PDF)  
       
      Instructions: Read this brief essay for a biography on George
     Gordon, or Lord Byron, one of the most famous and controversial of
@@ -898,7 +898,7 @@ id="3.3.3"></span> 
 
 -   **Reading: The Saylor Foundation’s “Byronic Heroism”**
     Link: The Saylor Foundation’s [“Byronic
-    Heroism”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Byronic-Heroism.pdf)
+    Heroism”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Byronic-Heroism.pdf)
     (PDF)  
       
      Instructions: Read this essay, which describes the Byronic hero and
@@ -911,7 +911,7 @@ id="3.3.3"></span> 
 Periodical** <span id="3.4.1"></span> 
 -   **Reading: De Quincey’s *Confessions of an Opium Eater***
     Link: De Quincey’s *[Confessions of an Opium
-    Eater](http://www.saylor.org/site/wp-content/uploads/2011/02/CONFESSIONS-OF-AN-ENGLISH-OPIUM.pdf) *(PDF)  
+    Eater](https://resources.saylor.org/archived/wp-content/uploads/2011/02/CONFESSIONS-OF-AN-ENGLISH-OPIUM.pdf) *(PDF)  
       
      Instructions: Read “To the Reader” and “Preliminary Confessions”
     from De Quincey’s memoir *Confessions of an Opium Eater* on pages
@@ -989,7 +989,7 @@ id="3.4.2"></span> 
 
 -   **Reading: The Saylor Foundation’s “Charlotte Turner Smith”**
     Link: The Saylor Foundation’s [“Charlotte Turner
-    Smith”](http://www.saylor.org/site/wp-content/uploads/2013/10/ENGL203-0C-3.4.2-CharlotteTurnerSmith.pdf) (PDF)  
+    Smith”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/ENGL203-0C-3.4.2-CharlotteTurnerSmith.pdf) (PDF)  
         
      Instructions: Please read this short introduction to the life and
     works of Charlotte Turner Smith.  
@@ -1006,7 +1006,7 @@ id="3.4.2"></span> 
     Departure of the
     Nightingale”](http://www.poetryfoundation.org/poem/182514) (HTML),
     and [“Beachy
-    Head”](http://www.saylor.org/site/wp-content/uploads/2013/10/ENGL203-3.4.2-BeachyHead.pdf)
+    Head”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/ENGL203-3.4.2-BeachyHead.pdf)
     (PDF)  
       
      Instructions: Read these four poems by Charlotte Turner Smith:
@@ -1079,7 +1079,7 @@ id="3.4.2"></span> 
 **3.4.4 Defining Romanticism, Part 2** <span id="3.4.4"></span> 
 -   **Activity: The Saylor Foundation’s “Defining Romanticism, Part 2”**
     Link: The Saylor Foundation’s [“Defining Romanticism, Part
-    2”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Unit-3-Guide-to-Responding-to-Defining-Romanticism-Part-2-FINAL1.pdf)
+    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Unit-3-Guide-to-Responding-to-Defining-Romanticism-Part-2-FINAL1.pdf)
     (PDF)  
       
      Instructions: Now that you have completed your exploration of
@@ -1100,7 +1100,7 @@ id="3.4.2"></span> 
      Once you have completed this activity, or if you need assistance,
     check The Saylor Foundation’s [“Guide to Responding to Defining
     Romanticism, Part
-    2.”](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL203-Unit-3-Guide-to-Responding-to-Defining-Romanticism-Part-2-FINAL1.pdf)  
+    2.”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL203-Unit-3-Guide-to-Responding-to-Defining-Romanticism-Part-2-FINAL1.pdf)  
         
      Completing this activity should take approximately 1 hour.
 
